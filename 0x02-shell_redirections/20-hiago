@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "whatever"
+tr -d "Cc"
